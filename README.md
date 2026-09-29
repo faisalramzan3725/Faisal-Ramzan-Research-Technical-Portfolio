@@ -7,11 +7,10 @@ Industrial PhD Candidate in Mathematics and Computer Science @ University of Cag
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faisal-ramzan-81490511a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="GOOGLE_SCHOLAR_URL"><img src="https://scholar.google.com/citations?user=NegZ4NwAAAAJ&hl=it?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=NegZ4NwAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.researchgate.net/profile/Faisal-Ramzan-3"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="https://kmi.open.ac.uk/people/member/faisal-ramzan"><img src="https://img.shields.io/badge/KMi%20Profile-4B0082?style=for-the-badge" alt="KMi"/></a>
   <a href="mailto:faisalramzan.unibo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="./Faisal_Ramzan_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-2EA44F?style=for-the-badge" alt="CV"/></a>
 </p>
 
 ---
