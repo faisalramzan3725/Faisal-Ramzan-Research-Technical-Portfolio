@@ -21,7 +21,7 @@ AI researcher and industrial PhD candidate specializing in **large language mode
 
 ---
 
-## 🚀 Top 5 Projects
+## 🚀 Top Production-Ready Projects
 
 | # | Project | What it does | Tech | Links |
 |---|---|---|---|---|
