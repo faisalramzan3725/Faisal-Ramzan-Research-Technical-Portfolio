@@ -115,11 +115,3 @@ AI researcher and industrial PhD candidate specializing in **large language mode
 
 ## 📬 References
 Available on request.
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faisalramzan3725&show_icons=true&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalramzan3725&layout=compact&hide_border=true" alt="languages"/>
-</p>
