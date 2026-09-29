@@ -10,7 +10,6 @@ Industrial PhD Candidate in Mathematics and Computer Science @ University of Cag
   <a href="https://scholar.google.com/citations?user=NegZ4NwAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.researchgate.net/profile/Faisal-Ramzan-3"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="https://kmi.open.ac.uk/people/member/faisal-ramzan"><img src="https://img.shields.io/badge/KMi%20Profile-4B0082?style=for-the-badge" alt="KMi"/></a>
-  <a href="mailto:faisalramzan.unibo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
